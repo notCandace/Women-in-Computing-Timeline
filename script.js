@@ -85,7 +85,6 @@ function draw() {
 
     //constrain(player.row, 50, 150);
 
-
 }
 
 function keyPressed() {
