@@ -1,6 +1,6 @@
 /**
 
-PROJECT NAME:
+PROJECT NAME:       Women in Computing: A Timeline
 FILE:               script.js
 DESCRIPTION:
 
