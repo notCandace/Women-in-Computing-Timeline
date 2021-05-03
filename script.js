@@ -85,8 +85,6 @@ function draw() {
 
     //constrain(player.row, 50, 150);
 
-    // fill("#000");
-    // text("(" + round( this.mouseX ) + ", " + round( this.mouseY ) + ")", this.mouseX, this.mouseY);
 
 }
 
