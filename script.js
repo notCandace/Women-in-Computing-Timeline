@@ -67,7 +67,7 @@ function setup() {
 
     currentLevel = 0;
     layouts = [];
-    player = new Player( getPlayerStartPosition( currentLevel ) );
+    // player = new Player( getPlayerStartPosition( currentLevel ) );
 
     for ( let s of scenes ) {
         manager.addScene(s);
@@ -92,9 +92,9 @@ function draw() {
 
 function keyPressed() {
 
-    player.move(currentLevel);
+    // player.move(currentLevel);
     let curr = layouts[0];
-    console.log("pX: " + player.row + " pY: " + player.col);
+    // console.log("pX: " + player.row + " pY: " + player.col);
 
 
 }
